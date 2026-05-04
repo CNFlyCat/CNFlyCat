@@ -1,4 +1,11 @@
-## Hi there 👋
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/CNFlyCat/CNFlyCat/assets/images/photo-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/CNFlyCat/CNFlyCat/assets/images/photo-dark.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/CNFlyCat/CNFlyCat/assets/images/photo-dark.png" />
+</picture>
+
 
 <!--
 **CNFlyCat/CNFlyCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
