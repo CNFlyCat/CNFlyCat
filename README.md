@@ -35,13 +35,40 @@
 
 <div align="center">
 
+### 🛠️ Tech Stack
+
+**Programming Languages**  
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=fff&style=flat)
 
+**Embedded & Hardware**  
+![ARM](https://img.shields.io/badge/ARM-0091BD?logo=arm&logoColor=fff&style=flat)
+![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=fff&style=flat)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=fff&style=flat)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=flat)
+
+**Frameworks & Protocols**  
+![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00A152?logo=freertos&logoColor=fff&style=flat)
+![RT-Thread](https://img.shields.io/badge/RT%20Thread-007ACC?logo=rtthread&logoColor=fff&style=flat)
+![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=fff&style=flat)
+![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=fff&style=flat)
+
+**OS & Infrastructure**  
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
+![GNU](https://img.shields.io/badge/GNU-A42E2B?logo=gnu&logoColor=fff&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+
+**Tools & Environment**  
+![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff&style=flat)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F6822B?logo=platformio&logoColor=fff&style=flat)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![CLion](https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=fff&style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 </div>
 
 <div align="center">
