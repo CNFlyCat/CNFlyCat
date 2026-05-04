@@ -31,6 +31,21 @@
 </td></tr>
 </table>
 
+<img width="200%" src="assets/images/hr.gif" />
+
+<div align="center">
+
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+
+</div>
+
 <div align="center">
   <img src="github-metrics/languages.indepth.svg" alt="languages.indepth" />
 </div>
+
+
