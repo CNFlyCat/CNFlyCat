@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=FF8C00&center=true&width=435&lines=console.log(%22Hello%2C+World%22);Here+is+RocketCat+!)](https://git.io/typing-svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/images/photo-dark.png" />
   <source media="(prefers-color-scheme: light)" srcset="assets/images/photo-dark.png" height="225px" />
@@ -75,4 +77,4 @@
   <img src="github-metrics/languages.indepth.svg" alt="languages.indepth" />
 </div>
 
-
+<img width="200%" src="assets/images/hr.gif" />
