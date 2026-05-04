@@ -66,7 +66,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 4
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout: 60
 
       # ✨ Stargazers
       - name: Using chartist charts
