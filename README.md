@@ -16,22 +16,25 @@
 
 </div>
 
-# 😆 Hello
+<div align="center">
 
-<table>
-<tr><td>
+# 😆 Hello, I'm RocketCat! 🚀🐱
 
-### 🚀 About Me
+<br>
 
-<p>&emsp;&emsp;嗨，你好！</p>
-<p>&emsp;&emsp;我是RocketCat！我喜欢猫🐱！ 喜欢火箭那探索无尽知识宇宙的精神！</p>
-<p>&emsp;&emsp;我热爱编程、机器人、台球、唱歌。</p>
-<p>&emsp;&emsp;热爱嵌入式，机器人研发事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让物理世界与数字世界深度融合，通过嵌入式开发，赋予机器感知、思考与行动的能力。</p>
-<p>&emsp;&emsp;<strong>We're bridging the physical and digital worlds. Through the art of embedded systems, we give machines the power to sense, think, and act.</strong></p>
+**我是 RocketCat！喜欢猫，也痴迷火箭探索无尽知识宇宙的精神！**
 
-</td></tr>
-</table>
+👨‍💻 编程 | 🤖 机器人 | 🎱 台球 | 🎤 唱歌
+
+<br>
+
+> 热爱嵌入式，深耕 **Linux BSP 与底层驱动**，致力于成为一名硬核且纯粹的系统级开发者。 <br>
+> 让物理世界与数字世界深度融合，赋予机器感知、思考与行动的能力。
+
+*We're bridging the physical and digital worlds.* <br>
+*Through the art of embedded systems, we give machines the power to sense, think, and act.*
+
+</div>
 
 <img width="200%" src="assets/images/hr.gif" />
 
